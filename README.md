@@ -2,6 +2,12 @@
 
 This portfolio is a full-stack web application using the Github API, GraphQL, React, MongoDB, and Sass to showcase my online presence and featured projects.
 
+# TODO
+Migrate repository to separate backend and front repositories.
+
+https://github.com/cristianordonez/dev-portfolio-api
+https://github.com/cristianordonez/dev-portfolio
+
 ## Live Link
 
 View live deployment [here](www.cristianordonezrd.com) or see the demo below.
